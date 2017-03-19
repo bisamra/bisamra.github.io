@@ -1,0 +1,11 @@
+.hello{
+    margin-top: 20px;
+}
+
+.navBrand{
+max-height: 100%
+}
+
+body{
+	background: url("../img/background.png") no-repeat center center;
+	background-size: cover;
